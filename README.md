@@ -27,7 +27,7 @@ The user should clone the repo onto their local machine. After navigating to the
 
 ## Usage
 
-![Landing Page View](/assets/images/page.png)
+![Landing Page View](/develop/assets/images/page.png)
 
 View walkthrough video here:
 No video provided.
