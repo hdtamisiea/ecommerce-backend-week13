@@ -30,7 +30,7 @@ The user should clone the repo onto their local machine. After navigating to the
 ![Landing Page View](/assets/images/page.png)
 
 View walkthrough video here:
-No video provided.
+https://drive.google.com/file/d/1zHyCg_aaun7jKTxUGqvQ6oVMwOjNTLIp/view
 
 Deployed site can be viewed at: 
 [No deployed link provided.]
